@@ -1,0 +1,40 @@
+Looking back at the two assignments, I'm feeling proud of what I've managed to get done, 
+but also really aware of how much I struggled with certain parts. 
+These tasks pushed me to think differently, and while it was tough, 
+I’m happy with how much I learned.
+
+The abstraction assignment was especially tricky for me. 
+I had a hard time wrapping my head around how to break things down 
+into smaller chunks and group them into classes. I knew the theory behind it, 
+but actually applying it to write code wasn’t easy. 
+I had to try a few different approaches, and sometimes 
+it felt like I wasn’t making progress. But eventually, 
+I figured it out and got a program running that showed I understood the basic concepts 
+of abstraction.
+
+The encapsulation task also gave me a lot of headaches. 
+There was a lot to remember with private variables, getters, setters, 
+and how to keep everything in its right place. 
+I could see the importance of keeping data safe, 
+but getting the syntax and structure right felt like a challenge. 
+It was hard to visualize how the different parts of the program were connected, 
+but I pushed through and eventually got it working.
+
+A big part of why I was able to finish both assignments was the help I got from ChatGPT. 
+I could pinpoint mistakes faster, and 
+getting feedback on how to improve made the debugging process a lot smoother. 
+It saved me so much time and helped me see where I was going wrong. 
+Even though I still feel a bit shaky on some parts especially the deeper details of 
+encapsulation and how classes interact—I feel like I’ve made good progress.
+
+Honestly, I wish I had more time to really dive into the concepts and make sure 
+I understood everything at a deeper level. But with the time I had, 
+I’m happy with the results. I’ve definitely grown as a programmer, 
+but I can see that there’s still a lot I need to work on.
+
+Looking ahead, I’m excited to keep improving. 
+I know there are going to be more tough moments, 
+but I’m motivated to keep going. These assignments taught me a lot about problem-solving 
+and how to work with classes, and I'm eager to see where it takes me next. 
+Even though it wasn’t easy, I'm grateful for the progress I’ve made and how much 
+I’ve learned.
